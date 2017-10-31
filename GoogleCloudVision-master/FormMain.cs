@@ -17,17 +17,6 @@ using Newtonsoft.Json.Linq;
 //https://cloud.google.com/vision/
 //구글 테스트 페이지
 //https://cloud.google.com/vision/
-//참조
-// - 조대협
-//http://bcho.tistory.com/1075
-//http://blog.danggun.net/4621
-//https://keestalkstech.com/2016/06/get-keywords-for-images-from-the-google-cloud-vision-api-with-c/
-//http://googlecloudplatform.github.io/google-cloud-dotnet/docs/Google.Cloud.Vision.V1/
-//http://www.buildinsider.net/web/bigquery/spinoff1
-//http://dpdpwl.tistory.com/6
-//http://bcho.tistory.com/1075
-//http://www.hardcopyworld.com/gnuboard5/bbs/board.php?bo_table=lecture_rpi&wr_id=68
-//http://www.hardcopyworld.com/ngine/aduino/index.php/archives/2736
 namespace GoogleCloudVision_master
 {
     public partial class FormMain : Form
